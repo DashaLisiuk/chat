@@ -68,7 +68,7 @@ setTimeout(() => {
 
 // CONNECTION
 // const socketURL = 'wss://cursovaya-psp-server.onrender.com';
-const socketURL = 'https://marvel-server-ngie.onrender.com';
+const socketURL = 'wss://marvel-server-ngie.onrender.com';
 
 
 /*
